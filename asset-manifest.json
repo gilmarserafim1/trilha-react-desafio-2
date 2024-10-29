@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trilha-react-desafio-2/static/css/main.edc96b55.css",
+    "main.js": "/trilha-react-desafio-2/static/js/main.0c9a1f1e.js",
+    "static/media/github.png": "/trilha-react-desafio-2/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/trilha-react-desafio-2/index.html",
+    "main.edc96b55.css.map": "/trilha-react-desafio-2/static/css/main.edc96b55.css.map",
+    "main.0c9a1f1e.js.map": "/trilha-react-desafio-2/static/js/main.0c9a1f1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc96b55.css",
+    "static/js/main.0c9a1f1e.js"
+  ]
+}
