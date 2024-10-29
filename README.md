@@ -1,14 +1,14 @@
-# Calculadora em React
+# Trilha React - Desafio 2
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gilmarserafim1/trilha-react-desafio01-calculadora)
-![GitHub issues](https://img.shields.io/github/issues/gilmarserafim1/trilha-react-desafio01-calculadora)
-![GitHub stars](https://img.shields.io/github/stars/gilmarserafim1/trilha-react-desafio01-calculadora)
+![GitHub last commit](https://img.shields.io/github/last-commit/gilmarserafim1/trilha-react-desafio-2)
+![GitHub issues](https://img.shields.io/github/issues/gilmarserafim1/trilha-react-desafio-2)
+![GitHub stars](https://img.shields.io/github/stars/gilmarserafim1/trilha-react-desafio-2)
 
 ## Descrição
 
-Este projeto é uma calculadora desenvolvida em React como parte do desafio da trilha React da Digital Innovation One. A aplicação permite realizar operações matemáticas básicas.
+Este projeto é uma wiki de respositórios github e faz parte do desafio 2 da trilha React da Digital Innovation One. A aplicação é uma calculadora desenvolvida em React.
 
-Você pode acessar a aplicação ao vivo [aqui](https://gilmarserafim1.github.io/trilha-react-desafio01-calculadora/).
+Você pode acessar a aplicação ao vivo [aqui](https://gilmarserafim1.github.io/trilha-react-desafio-2/).
 
 ## Pré-requisitos
 
@@ -20,8 +20,8 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento local:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/gilmarserafim1/trilha-react-desafio01-calculadora.git
-    cd trilha-react-desafio01-calculadora
+    git clone https://github.com/gilmarserafim1/trilha-react-desafio-2.git
+    cd trilha-react-desafio-2
     ```
 
 2. Instale as dependências:
@@ -66,3 +66,7 @@ Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
 - GitHub: [gilmarserafim1](https://github.com/gilmarserafim1)
 - Email: gilmarjunior72@gmail.com
+
+---
+
+**Nota:** Este README é um exemplo e deve ser personalizado de acordo com as especificidades do seu projeto.
