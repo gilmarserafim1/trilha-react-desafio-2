@@ -66,7 +66,3 @@ Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
 - GitHub: [gilmarserafim1](https://github.com/gilmarserafim1)
 - Email: gilmarjunior72@gmail.com
-
----
-
-**Nota:** Este README é um exemplo e deve ser personalizado de acordo com as especificidades do seu projeto.
